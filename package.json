@@ -1,0 +1,14 @@
+{
+  "name": "memulai-rescript",
+  "version": "1.0.0",
+  "description": "memulai project dengan rescript untuk javascript lebih baik ",
+  "license": "MIT",
+  "scripts": {
+    "start": "rescript build -w",
+    "build": "rescript build",
+    "clean": "rescript clean"
+  },
+  "devDependencies": {
+    "rescript": "9.1.1"
+  }
+}
